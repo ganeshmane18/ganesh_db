@@ -65,6 +65,11 @@ public class TextEx extends Frame implements ActionListener
 		}
 	}
 
+	public void m1()
+	{
+		//code
+	}
+
 	public static void main(String[] args)
 	{
 		new TextEx();
